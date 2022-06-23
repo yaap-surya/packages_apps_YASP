@@ -82,17 +82,17 @@
     <string name="about_dev3_name">Omkar Chandorkar</string>
     <string name="about_dev3_git" translatable="false">https://github.com/gotenksIN</string>
     <string name="maintainer">Device Maintainer</string>
-    <string name="maintainer_name" translatable="false"></string>
-    <string name="maintainer_telegram" translatable="false"></string>
+    <string name="maintainer_name" translatable="false">Hazama Honoka</string>
+    <string name="maintainer_telegram" translatable="false">https://t.me/Hazama25</string>
     <string name="kernel">Kernel Developer</string>
-    <string name="kernel_name" translatable="false"></string>
-    <string name="kernel_telegram" translatable="false"></string>
+    <string name="kernel_name" translatable="false">Carlos Arriaga</string>
+    <string name="kernel_telegram" translatable="false">https://t.me/TheStrechh</string>
     <string name="about_tg_title">Telegram Group</string>
     <string name="about_tg_summary">Official, Global Telegram Group</string>
     <string name="about_tg_link" translatable="false">https://t.me/yaapcommon</string>
     <string name="about_git_title">Source Code</string>
     <string name="about_git_summary">View our source on GitHub</string>
-    <string name="about_git_link" translatable="false">https://github.com/yaap</string>
+    <string name="about_git_link" translatable="false">https://github.com/yaap-surya</string>
     <string name="about_phone_title">About Phone</string>
     <string name="about_phone_summary">Open the system\'s about page</string>
     <string name="designer_title">Designer</string>
